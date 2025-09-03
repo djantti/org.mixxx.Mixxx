@@ -59,6 +59,24 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.5.3" date="2025-09-02">
+    <url type="details">https://github.com/mixxxdj/mixxx/blob/2.5.3/CHANGELOG.md</url>
+      <description>
+        <p>
+          Mixxx 2.5.3 is a minor release with several improvements and bugfixes.
+          The release highlights include:
+        </p>
+        <ul>
+          <li>Vastly improved Digital Vinyl System (DVS) with accurate Kalman-Filter
+          based pitch detection and quadratune phase tracker</li>
+          <li>New controller mapping for Icon P1-Nano MIDI 1</li>
+          <li>Updated mappings for Traktor Kontrol S4 Mk3, Traktor Kontrol S3,
+          Traktor Kontrol S2 and Numark NS6II</li>
+          <li>More robust waveform scratching functionality</li>
+          <li>Expanded translations for broadcast settings and track eject</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.5.2" date="2025-05-14">
     <url type="details">https://github.com/mixxxdj/mixxx/blob/2.5.2/CHANGELOG.md</url>
       <description>
